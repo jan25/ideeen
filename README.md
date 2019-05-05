@@ -18,3 +18,4 @@ Use this repo to keep track of ideas :)
 * Build snake game using html, canvas, js
 * Build app needing a crud API and a dashboard. This is to understand how e2e apps designed and built
 * Dummy API using azure functions
+* Map-reduce internals
