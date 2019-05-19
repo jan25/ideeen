@@ -19,3 +19,4 @@ Use this repo to keep track of ideas :)
 * Build app needing a crud API and a dashboard. This is to understand how e2e apps designed and built
 * Dummy API using azure functions
 * Map-reduce internals
+* [eBPF](http://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html) Brendan gregg 
