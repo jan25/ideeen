@@ -8,6 +8,7 @@ Use this repo to keep track of ideas :)
 2. Http server log parser in Go
 3. Generate password using a image source (Hint: convert to ascii)
 4. Typeracer in terminal. https://github.com/gizak/termui this might be useful for graphics
+5. Offline apps repository
 
 ## Stuff to learn
 
