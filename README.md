@@ -9,6 +9,7 @@ Use this repo to keep track of ideas :)
 3. Generate password using a image source (Hint: convert to ascii)
 4. Typeracer in terminal. https://github.com/gizak/termui this might be useful for graphics
 5. Offline apps repository
+6. Implement https://en.wikipedia.org/wiki/DEFLATE, which is basis algorithm for gzip compression.
 
 ## Stuff to learn
 
